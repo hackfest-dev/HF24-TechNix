@@ -1,0 +1,50 @@
+Component,Material,Emission to Air (kg),Emission to Water (kg),Emission to Land (kg),GHG Emission (kgCO2e)
+Pushbutton Switch,Illuminated Pushbutton Switch,6.65,6.47,1.92,98.0
+Piezoelectric Sensor,Accelerometer,8.87,2.08,9.98,92.44
+Crystal Resonator,Surface Mount Crystal Resonator,0.58,3.58,0.23,93.43
+Fuse Holder,Panel Mount Fuse Holder,3.49,6.54,3.46,83.49
+Crystal Oscillator,Tuning Fork Crystal,5.12,1.96,3.82,73.1
+Proximity Sensor,Capacitive Proximity Sensor,8.37,4.38,6.21,90.58
+Switch,Push Button Switch,3.8,6.37,7.97,62.64
+Microcontroller,Raspberry Pi,9.76,9.17,4.37,90.51
+Inductor,Ferrite Core,6.92,5.05,1.9,21.23
+Reed Switch,High Power Reed Switch,8.84,1.03,5.68,45.48
+Speaker,Dynamic Speaker,1.41,8.27,7.84,61.38
+Connector,Wire-to-Board Connector,6.85,3.0,6.61,83.47
+Resistor,Ceramic,7.23,9.15,2.38,5.73
+Printed Circuit Board,Flex,4.79,9.0,5.25,79.76
+Varistor,Metal Oxide Varistor,2.95,7.79,5.64,14.39
+Rotary Switch,Selector Rotary Switch,8.51,3.15,9.88,42.08
+Thyristor,Gate Turn-off Thyristor,0.23,8.94,2.87,25.79
+Piezoelectric Sounder,Buzzer,1.4,2.9,5.0,45.21
+Antenna,Yagi Antenna,8.15,5.4,3.52,82.79
+Photodiode,Avalanche Photodiode,9.07,6.36,3.18,73.46
+Display,LED Display,8.7,7.44,3.21,69.76
+Integrated Circuit,CMOS,5.06,5.69,9.36,29.01
+Microphone,Condenser Microphone,0.96,4.19,9.43,80.51
+Ferrite Bead,Through Hole Ferrite Bead,2.14,8.57,8.3,0.64
+Decoder,Binary Decoder,6.55,4.85,8.1,13.11
+Dip Switch,Through Hole Dip Switch,2.31,3.36,3.24,95.59
+Battery,Alkaline,7.22,4.81,3.11,29.29
+Sensor,Light Sensor,5.55,4.24,6.88,12.33
+Electret Microphone,Analog Electret Microphone,3.69,4.2,1.96,77.82
+Transistor,PNP,2.93,8.87,4.08,68.71
+Potentiometer,Rotary Potentiometer,3.98,9.9,6.35,31.43
+Capacitor,Electrolytic,6.02,7.15,7.85,13.06
+Tactile Switch,Illuminated Tactile Switch,7.18,1.23,9.94,37.96
+LED,Light Emitting Diode,4.5,2.17,8.5,21.76
+Loudspeaker,Full-range Loudspeaker,1.17,3.46,3.32,0.76
+Toggle Switch,Mini Toggle Switch,9.58,7.52,1.69,67.41
+Thermistor,PTC Thermistor,8.72,0.93,1.43,92.26
+Encoder,Rotary Encoder,8.07,4.26,0.27,51.71
+Fuse,Resettable Fuse,8.38,4.26,2.8,60.6
+Relay,Electromechanical Relay,0.64,2.97,9.87,23.31
+Motor,DC Motor,1.95,1.94,8.08,33.95
+Slide Switch,Mini Slide Switch,5.9,4.66,1.24,76.57
+Optocoupler,Photodiode Optocoupler,4.72,6.91,4.87,23.78
+Photoresistor,Photovoltaic Cell,4.39,9.13,5.76,25.33
+Triac,Sensitive Gate Triac,8.07,3.0,6.17,97.95
+Heat Sink,Copper Heat Sink,6.27,1.4,9.99,35.54
+Transformer,Step-up Transformer,6.93,8.66,2.1,84.69
+Diode,Schottky,3.44,1.58,8.16,40.55
+Voltage Regulator,Linear Voltage Regulator,9.95,3.12,9.77,60.65
