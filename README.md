@@ -1,4 +1,4 @@
-This repository contains the front-end code for an E-Waste Management Website "e-Dispose". The website aims to provide users with information and suggestions regarding the proper disposal methods for electronic components based on environmental regulations.
+This repository contains the front-end code and also a simple model for suggesting appropriate e-waste disposal for an E-Waste Management Website "e-Dispose". The website aims to provide users with information and suggestions regarding the proper disposal methods for electronic components based on environmental regulations.
 
 Features:
 Component Search: Users can search for specific electronic components.
